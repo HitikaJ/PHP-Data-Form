@@ -11,7 +11,7 @@
             header("location: /aayushbharat/data.php");
         }
         else{
-            echo "error";
+            echo " error";
         }  
     }
     
